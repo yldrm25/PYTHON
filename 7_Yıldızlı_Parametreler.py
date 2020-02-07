@@ -1,0 +1,5 @@
+print("T","B","M","M",end="  *---------*  ")
+print("merhaba")
+print("T","B","M","M",sep=".")
+print("")
+print(*"Beşiktaş")
